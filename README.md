@@ -5,4 +5,4 @@ npm install
 npm start
 ````
 
-![demo](insertlink)
+![demo](https://github.com/frahman5/chatreact/blob/master/demo.gif?raw=true)
