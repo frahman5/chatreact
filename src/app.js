@@ -36,12 +36,12 @@ function findThreadIndex(threads, action) {
 function threadsReducer(state = [
   {
     id: '1-fca2',
-    title: 'Buzz Aldrin',
+    title: 'Jaggi Vasudev',
     messages: messagesReducer(undefined, {}),
   },
   {
     id: '2-be91',
-    title: 'Michael Collins',
+    title: 'Siddartha',
     messages: messagesReducer(undefined, {}),
   },
 ], action) {
